@@ -1,5 +1,7 @@
 jupyterlab
 pandas
 sklearn
+numpy
+matplotlib
 
 jupyter-lsp
